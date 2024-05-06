@@ -1,8 +1,8 @@
-public class TiposVariavies {
+public class TiposVariaveis {
     public static void main(String[] args) {
 
-        // No double para representar milhar não é necessário a utilização do ponto,
-        // ou seja, dois mil e quinhentos é ->2500<-
+        /* No double para representar milhar não é necessário a utilização do ponto,
+         ou seja, dois mil e quinhentos é ->2500<- */
         double salarioMinimo = 2.500;
 
         //------------------------------------------------------------------------------------------------------------------------
