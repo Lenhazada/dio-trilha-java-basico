@@ -1,5 +1,6 @@
-#Diagrama UML
+# Diagrama UML
 
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +exemploMetodo1()
